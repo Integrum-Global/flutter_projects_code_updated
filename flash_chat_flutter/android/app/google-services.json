@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709127875789",
+    "project_id": "flash-chat-8f060",
+    "storage_bucket": "flash-chat-8f060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709127875789:android:d6a3884bbd2a5c908b4d84",
+        "android_client_info": {
+          "package_name": "global.integrum.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709127875789-pchcjku45paj5046uudf3vpbdudv598v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6RrSHSZ2o9TsMu1hOo4TPa_rQ7vRmVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709127875789-pchcjku45paj5046uudf3vpbdudv598v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
