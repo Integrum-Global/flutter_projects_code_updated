@@ -1,0 +1,6 @@
+# Idea files
+/.idea/
+
+# Store files
+.DS_Store
+/lessons/.DS_Store
